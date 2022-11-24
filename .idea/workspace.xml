@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8fc3355-733c-4ec4-81fb-4c9311db26f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Autoescola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Candidato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CandidatoCascade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExameMedico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExamePsicotecnico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PagamentoTaxas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Requisitos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CandidatoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Autoescola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Autoescola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExameMedico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExameMedico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExamePsicotecnico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExamePsicotecnico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PagamentoTaxas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PagamentoTaxas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Requisitos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Requisito.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -62,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CandidatoTest">
     <configuration name="CandidatoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="padrao_facade" />
       <option name="PACKAGE_NAME" value="" />
@@ -72,9 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CandidatoTest.deveRetornarPendenciaAutoescolaEmissaoCNH" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="padrao_facade" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CandidatoTest" />
+      <option name="METHOD_NAME" value="deveRetornarPendenciaAutoescolaEmissaoCNH" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CandidatoTest" />
+        <item itemvalue="JUnit.CandidatoTest.deveRetornarPendenciaAutoescolaEmissaoCNH" />
       </list>
     </recent_temporary>
   </component>
@@ -99,5 +101,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

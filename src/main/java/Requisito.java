@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class Requisitos {
+public abstract class Requisito {
 
     private List<Candidato> candidatosComPendencia = new ArrayList<Candidato>();
 

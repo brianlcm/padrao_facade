@@ -1,4 +1,4 @@
-public class Autoescola extends Requisitos {
+public class Autoescola extends Requisito {
     private static Autoescola autoescola = new Autoescola();
 
     private Autoescola() {};

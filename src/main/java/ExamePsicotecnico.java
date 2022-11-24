@@ -1,4 +1,4 @@
-public class ExamePsicotecnico extends Requisitos {
+public class ExamePsicotecnico extends Requisito {
 
     private static ExamePsicotecnico examePsicotecnico = new ExamePsicotecnico();
 
